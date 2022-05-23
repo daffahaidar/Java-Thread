@@ -14,7 +14,12 @@ Sedangkan Synchronous akan menjalankan thread secara berurutan (single thread) s
     
 ## Asynchronous Output
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Asynchronous](https://user-images.githubusercontent.com/56962807/169763546-2adf826b-b2e6-4a43-aeea-72aab7cc0f6b.png)
+
+
+## Synchronous Output
+
+![Synchronous](https://user-images.githubusercontent.com/56962807/169763614-07aea341-d7e8-40bc-9062-1aa01e229ff0.png)
 
 
 ## Authors
